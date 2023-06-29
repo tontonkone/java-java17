@@ -8,6 +8,7 @@ import org.junit.Test;
  * Exemple Test
  */
 public class Exemple_Test {
+	// new test
 	
 	@Test
 	public void testQuiEchoue() {
